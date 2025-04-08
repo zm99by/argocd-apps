@@ -16,7 +16,7 @@ data:
       <title>My Custom Page</title>
     </head>
     <body>
-      <h1>Hello from DevOps!</h1>
+      <h1>Hello from DevOps Epam!</h1>
       <p>This is my custom page deployed via ArgoCD.</p>
     </body>
     </html>
